@@ -42,7 +42,7 @@ Mobile View 2
 ### Links
 
 - Solution URL: https://github.com/TaylorOkis/four-cards
-- Live Site URL: https://taylorokis.github.io/four-cards/
+- Live Site URL: https://taylorokis.github.io/four-cards
 
 ## My process
 
