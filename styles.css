@@ -116,7 +116,11 @@ img {
 
 @media screen and (min-width: 768px) {
   h1 {
-    font-size: 1.8rem;
+    font-size: 2.2rem;
+  }
+
+  .header {
+    margin-bottom: 1rem;
   }
 
   #cards {
