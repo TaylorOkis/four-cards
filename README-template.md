@@ -41,8 +41,8 @@ Mobile View 2
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/TaylorOkis/four-cards
+- Live Site URL: https://taylorokis.github.io/four-cards/
 
 ## My process
 
@@ -74,4 +74,9 @@ I learnt to manipute the flow of grid to change the order in which items are bei
 
 ### Continued development
 
-Continue focus on how develop the exact replica of designs.
+Continue focus on how develop the exact replica of designs
+
+## Author
+
+- Frontend Mentor - [@taylorokis](https://www.frontendmentor.io/profile/TaylorOkis)
+- Twitter - [@taylorokis](https://www.twitter.com/taylorokis)
